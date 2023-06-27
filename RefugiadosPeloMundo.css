@@ -88,3 +88,7 @@ p {
     color: #000000;
     text-decoration: none;
 }
+#imagem{
+    width: 50px;
+    display:inline-flex;
+}
